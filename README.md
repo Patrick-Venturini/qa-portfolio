@@ -112,7 +112,6 @@ Os desafios têm como foco:
 - aplicação de boas práticas  
 - estratégia de testes voltado para automação
 - testes baseado em risco
-- ...
 
 Cada desafio descreve claramente o problema, o objetivo e o entregável esperado.
 
