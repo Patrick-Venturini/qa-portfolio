@@ -17,14 +17,15 @@ Mais do que listar ferramentas, este portfólio busca mostrar como eu penso em q
 
 ```
 ├── Projetos
-│   ├── Automação Web
+│   ├── Automação de UI com Cypress - Básico
 │   ├── Automação de API
-│   ├── Testes Mobile
-│   ├── Testes de Unidade
-│   ├── Testes de Performance
 │   ├── CI/CD e Qualidade Contínua
-│   ├── Docker e Ambientes de Teste
-│   └── IA aplicada a Testes
+│   ├── Docker Compose e Automação de Testes
+│   ├── Automação de UI com Cypress - Avançado
+│   ├── Testes de Performance
+│   ├── Automação de Testes Mobile
+│   ├── Testes de Unidade
+│   └── Inteligência Artificial aplicada a Testes
 ├── Desafios práticos
 ├── Boas práticas adotadas
 └── Considerações finais
