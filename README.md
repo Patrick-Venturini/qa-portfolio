@@ -19,9 +19,12 @@ Mais do que listar ferramentas, este portfólio busca mostrar como eu penso em q
 ├── Projetos
 │   ├── Automação Web
 │   ├── Automação de API
+│   ├── Testes Mobile
 │   ├── Testes de Unidade
 │   ├── Testes de Performance
-│   └── CI/CD e Qualidade Contínua
+│   ├── CI/CD e Qualidade Contínua
+│   ├── Docker e Ambientes de Teste
+│   └── IA aplicada a Testes
 ├── Desafios práticos
 ├── Boas práticas adotadas
 └── Considerações finais
@@ -33,16 +36,16 @@ Abaixo estão alguns dos principais projetos que fazem parte deste portfólio.
 
 Cada projeto possui seu próprio repositório e um README com a explicação do contexto, objetivo, estratégia de testes e instruções de execução.
 
-### Automação Web
+### Automação de UI com Cypress - Básico
 
-Projeto focado em testes end to end de uma aplicação web, chamadada Hub de Leitura, validando fluxos críticos e comportamentos esperados do sistema.
+Projeto desenvolvido para estudos e prática de automação de testes End-to-End (E2E) utilizando o Cypress.
 
 **Tecnologias utilizadas:**
 - Cypress
-- Java Script
+- JavaScript
 
-Repositório:  
-https://github.com/Patrick-Venturini/ebac-cypress-bdd-cucumber
+Repositório:
+https://github.com/Patrick-Venturini/ebac-cypress-intercep-appActions.git
 
 ### Automação de API
 
@@ -55,16 +58,43 @@ Projeto voltado para testes de API, cobrindo validações de regras de negócio,
 Repositório:  
 https://github.com/Patrick-Venturini/task-hub-de-leitura-api-cypress-test
 
-### Testes de Unidade
+### CI/CD e Qualidade Contínua
 
-Projeto com exemplos de testes de unidade aplicados a funções e regras isoladas, com foco em confiabilidade e manutenção do código.
+Projeto integrando testes automatizados em pipelines de CI/CD, demonstrando execução contínua e automação da qualidade ao longo do fluxo de entrega.
 
 **Tecnologias utilizadas:**  
-- JavaScript  
-- Framework de testes de unidade  
+- Jenkins  
 
 Repositório:  
-https://github.com/Patrick-Venturini/ebac-exercicio-js
+https://github.com/Patrick-Venturini/ci-cd-exemplo-jenkins
+
+### Docker Compose e Automação de Testes
+
+Projeto voltado à prática de containerização e orquestração de ambientes de teste, integrando aplicação, testes automatizados de API e testes de interface com Docker Compose.
+
+**Tecnologias utilizadas:**
+
+- Docker
+- Docker Compose
+- Cypress
+- JavaScript
+- Cucumber / Gherkin
+
+Repositório:
+https://github.com/Patrick-Venturini/ebac-docker-compose-exercicio
+
+
+### Automação de UI com Cypress - Avançado
+
+Projeto focado em testes end to end de uma aplicação web, chamada Hub de Leitura, validando fluxos críticos e comportamentos esperados do sistema.
+
+**Tecnologias utilizadas:**
+- Cypress
+- JavaScript
+
+Repositório:  
+https://github.com/Patrick-Venturini/ebac-cypress-bdd-cucumber
+
 
 ### Testes de Performance
 
@@ -75,16 +105,6 @@ Projeto demonstrando testes de carga e análise de métricas de performance, ava
 
 Repositório:  
 https://github.com/Patrick-Venturini/ebac-tarefa-k6
-
-### CI/CD e Qualidade Contínua
-
-Projeto integrando testes automatizados em pipelines de CI/CD, demonstrando execução contínua e automação da qualidade ao longo do fluxo de entrega.
-
-**Tecnologias utilizadas:**  
-- Jenkins  
-
-Repositório:  
-https://github.com/Patrick-Venturini/ci-cd-exemplo-jenkins
 
 ### Automação de Testes Mobile
 
@@ -100,6 +120,32 @@ Projeto de automação de testes mobile utilizando Appium e WebdriverIO, explora
 Repositório:  
 https://github.com/Patrick-Venturini/ebac-appium-test-wdio
 
+
+### Testes de Unidade
+
+Projeto com exemplos de testes de unidade aplicados a funções e regras isoladas, com foco em confiabilidade e manutenção do código.
+
+**Tecnologias utilizadas:**  
+- JavaScript  
+- Jest
+
+Repositório:  
+https://github.com/Patrick-Venturini/ebac-exercicio-js
+
+### Inteligência Artificial aplicada a Testes
+
+Projeto explorando o uso de Inteligência Artificial como apoio ao processo de qualidade de software, incluindo análise de requisitos, geração e revisão de cenários de teste, apoio à automação e análise dos resultados das execuções.
+
+**Tecnologias utilizadas:**
+
+- Inteligência Artificial Generativa
+- Engenharia de Prompt
+
+Repositório:  
+https://github.com/Patrick-Venturini/ebac-testes-com-apoio-ia.git
+
+
+
 ## Desafios práticos
 
 Além dos projetos completos, este portfólio também inclui desafios práticos voltados para o exercício de habilidades específicas.
@@ -110,8 +156,8 @@ Os desafios têm como foco:
 - organização  
 - tomada de decisão  
 - aplicação de boas práticas  
-- estratégia de testes voltado para automação
-- testes baseado em risco
+- estratégia de testes voltada para automação
+- testes baseados em risco
 
 Cada desafio descreve claramente o problema, o objetivo e o entregável esperado.
 
@@ -132,4 +178,3 @@ Este portfólio representa minha evolução na área de Qualidade de Software e 
 Cada projeto busca demonstrar não apenas a utilização de uma determinada tecnologia, mas também o processo de pensamento por trás das decisões de teste.
 
 A construção do portfólio continua acompanhando minha evolução profissional e técnica na área de QA.
-
