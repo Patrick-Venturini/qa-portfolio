@@ -2,7 +2,7 @@
 
 Este repositório reúne meus projetos práticos em Engenharia de Qualidade de Software, organizados para apresentar minha evolução no aprendizado de testes, automação, DevOps e qualidade de forma clara e objetiva. 
 
-Aqui estão concentrados trabalhos que envolvem automação web, testes de API, testes de unidade, performance e integração contínua, sempre baseados em cenários próximos à realidade de aplicações de mercado.
+Aqui estão concentrados trabalhos que envolvem automação web e mobile, testes de API, testes de unidade, testes de performance, containerização, integração contínua e uso de Inteligência Artificial aplicada ao processo de qualidade.
 
 ## Objetivo do portfólio
 
@@ -29,7 +29,7 @@ Mais do que listar ferramentas, este portfólio busca mostrar como eu penso em q
 ├── Desafios práticos
 ├── Boas práticas adotadas
 └── Considerações finais
-````
+```
 
 ## Projetos
 
@@ -135,7 +135,7 @@ https://github.com/Patrick-Venturini/ebac-exercicio-js
 
 ### Inteligência Artificial aplicada a Testes
 
-Projeto explorando o uso de Inteligência Artificial como apoio ao processo de qualidade de software, incluindo análise de requisitos, geração e revisão de cenários de teste, apoio à automação e análise dos resultados das execuções.
+Projeto explorando o uso de Inteligência Artificial como apoio ao processo de qualidade de software, incluindo análise de requisitos, geração e revisão de cenários de teste e apoio à análise dos resultados das execuções.
 
 **Tecnologias utilizadas:**
 
