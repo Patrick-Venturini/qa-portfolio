@@ -26,7 +26,6 @@ Mais do que listar ferramentas, este portfólio busca mostrar como eu penso em q
 │   ├── Automação de Testes Mobile
 │   ├── Testes de Unidade
 │   └── Inteligência Artificial aplicada a Testes
-├── Desafios práticos
 ├── Boas práticas adotadas
 └── Considerações finais
 ```
@@ -144,23 +143,6 @@ Projeto explorando o uso de Inteligência Artificial como apoio ao processo de q
 
 Repositório:  
 https://github.com/Patrick-Venturini/ebac-testes-com-apoio-ia.git
-
-
-
-## Desafios práticos
-
-Além dos projetos completos, este portfólio também inclui desafios práticos voltados para o exercício de habilidades específicas.
-
-Os desafios têm como foco:
-
-- raciocínio de testes  
-- organização  
-- tomada de decisão  
-- aplicação de boas práticas  
-- estratégia de testes voltada para automação
-- testes baseados em risco
-
-Cada desafio descreve claramente o problema, o objetivo e o entregável esperado.
 
 ## Boas práticas adotadas
 
